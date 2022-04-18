@@ -5,6 +5,11 @@ print(x)
 #It should output Bob
 print("What Day is it")
 x = input("What Day Is It")
-print("Bye Thanks For doing this with me")
-x = input("Say Thanks for helping me")
+print("What your running this on")
+x = input("You running this on python app or vscode")
+print("Am gonna go bye")
+x = input("Say Goodbye")
 #Penguinblade
+
+
+
